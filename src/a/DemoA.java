@@ -8,4 +8,9 @@ public class DemoA {
 		System.out.println("hello");
 		System.out.println("Bye");
 	}
+	
+	// sprint 2 automation
+	public static void add(int a, int b) {
+		System.out.println(a + b);
+	}
 }
