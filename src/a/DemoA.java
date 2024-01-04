@@ -18,6 +18,6 @@ public class DemoA {
 		System.out.println(a - b);
 }
 	public void div(int a, int b){
-		system.out.println(a/b);
+		System.out.println(a/b);
 	}
 }
